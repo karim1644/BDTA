@@ -1,1 +1,3 @@
 .idea/
+# ignore macos finder metadata files
+.DS_Store
